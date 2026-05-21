@@ -29,4 +29,4 @@ Instead of shipping a pre-compiled executable, Void OS features a "Ghost Kernel"
 Void OS relies on the native C# compiler (`csc.exe`) bundled with the Windows .NET Framework. When `void.bat` is executed, it locates your compiler, compiles `void_os.cs` with the custom `void.ico` burned in, launches `VoidOS.exe`, and cleans it up upon exit.
 
 ---
-*Created by hima*
+*Created by Me :) *

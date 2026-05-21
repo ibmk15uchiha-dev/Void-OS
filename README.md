@@ -1,3 +1,6 @@
+Note: This project was made by passion and for fun, 90% Vibe Coded.
+
+
 # Void OS ❖
 
 Void OS is a lightweight, fully self-contained GUI operating system environment built entirely in C# and Batch. 
